@@ -3,4 +3,4 @@
 
 ### Langkah-langkah Strategis Pelaksanaan Anggaran TA 2020
 
-[#Juknis](#juknis) | [#Format](#format) | [#Aplikasi](#aplikasi) | 
+[#Juknis](#juknis) | [#Format](/format) | [#Aplikasi](#aplikasi) | 
